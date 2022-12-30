@@ -24,7 +24,7 @@
 <br/>
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  (https://rahul-bhati.github.io/My_Portfolio/)
+-Check out here  (https://rahulbhati.in/)
 <img src="https://github.com/Rahul-Bhati/My_Portfolio/blob/3c899342ce33471a9dae8dec50308c5679be2df1/demo/Screenshot%20(497).png" alt="MyPortfolio">
 <br>
 <h3 align="left">Connect with me:</h3>
