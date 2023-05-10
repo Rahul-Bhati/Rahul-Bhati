@@ -55,3 +55,4 @@
 <p>
   <a href="https://github.com/Rahul-Bhati" >  <img src="https://github.com/arpit456jain/arpit456jain/blob/output/github-contribution-grid-snake.gif" align="center" />  </a>
   </p>
+[![Rahul-Bhati's GitHub | Stats](https://stats.quine.sh/Rahul-Bhati/github?theme=light)](https://quine.sh)
