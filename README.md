@@ -24,7 +24,7 @@
 <br/>
 
 - 👨‍💻 All of my projects are available at my Portfolio website.
--Check out here  (https://rahulbhati.in/)
+-Check out here  (https://kaleidoscopic-kheer-ac9040.netlify.app/)
 <img src="https://github.com/Rahul-Bhati/React_Portfolio/blob/b5642a4dc61b40d6d04c9a4261036283801c1428/ScreenShots/Screenshot%20(1270).png" alt="MyPortfolio">
 <br>
 <h3 align="left">Connect with me:</h3>
