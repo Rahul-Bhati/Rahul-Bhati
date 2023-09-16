@@ -16,7 +16,7 @@
 - ⚡ Fun fact: Marvel's Fan
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul-bhati&show_icons=true&locale=en">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-bhati&" alt="rahul-bhati" alt="Rahul-Bhati" />
+<!--   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-bhati&" alt="rahul-bhati" alt="Rahul-Bhati" /> -->
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-bhati&show_icons=true&locale=en&layout=compact" alt="Rahul-Bhati" />
   <img alt="coding" align="center" width="50%" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 </p>
