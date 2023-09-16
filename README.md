@@ -6,6 +6,12 @@
 - 💬 Ask me about Full Stack Web Development.
 - 📫 How to reach me: [linkedin:@RahulBhati](https://www.linkedin.com/in/rahul-bhati-25482a1a0/) , [Facebook:@Rahul](https://www.facebook.com/profile.php?id=100025105928190) , [Instagram@Rahul](https://www.instagram.com/_rahul_bhati7773/)
 - https://www.biodrop.io/Rahul-Bhati
+
+- <p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
 <p>
